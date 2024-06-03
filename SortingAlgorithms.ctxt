@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SortingAlgorithms
+comment1.params=vector
+comment1.target=void\ printVector(int[])
+comment2.params=vector
+comment2.target=void\ initializeVector(int[])
+comment3.params=vector
+comment3.target=int[]\ replicate(int[])
+comment4.params=vector\ n
+comment4.target=void\ mergeSort(int[],\ int)
+comment5.params=vector\ left\ right\ leftLength\ rightLength
+comment5.target=void\ merge(int[],\ int[],\ int[],\ int,\ int)
+comment6.params=vector\ first\ last
+comment6.target=void\ quickSort(int[],\ int,\ int)
+comment7.params=vector\ first\ last
+comment7.target=int\ partition(int[],\ int,\ int)
+numComments=8
